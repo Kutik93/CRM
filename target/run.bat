@@ -1,0 +1,1 @@
+java -jar crm-hibernate-javafx-1.0-SNAPSHOT.jar

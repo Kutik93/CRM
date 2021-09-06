@@ -1,0 +1,8 @@
+util\service\AddressRegistrationId.class
+util\controller\CompanyListController.class
+util\service\AddressForm.class
+util\service\AddressRegistration.class
+util\service\CompanyCustomerRegistration.class
+util\controller\HomeController.class
+util\service\RegistrationCompanyForm.class
+util\exception\CompanyAlreadyExistsException.class
